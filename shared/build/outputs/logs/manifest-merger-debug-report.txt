@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml:2:13-3:46
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml:2:13-3:46
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml:2:13-3:46
+	package
+		ADDED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml:3:16-43
+		INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+		INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+	xmlns:android
+		ADDED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml:2:23-81
+uses-sdk
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml reason: use-sdk injection requested
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+	android:targetSdkVersion
+		INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+		ADDED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+		INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+	android:minSdkVersion
+		INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+		ADDED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
+		INJECTED from C:\DevEnv\Workspace\Android\KmmApp\shared\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest7272581794734953997.xml
